@@ -1,0 +1,44 @@
+{
+  "name" : "blueblazeassociates/ewww-image-optimizer",
+  "description" : "Reduce file sizes for images within WordPress including NextGEN Gallery and GRAND FlAGallery. Uses jpegtran, optipng/pngout, and gifsicle.",
+  "type" : "wordpress-plugin",
+  "homepage" : "http://wordpress.org/extend/plugins/ewww-image-optimizer/",
+  "license" : "GPL-2.0+",
+  "authors" : [{
+    "name" : "Shane Bishop",
+    "homepage" : "https://ewww.io/",
+    "role" : "Author/Creator"
+  }, {
+    "name" : "Ed Gifford",
+    "homepage" : "http://www.blueblazeassociates.com",
+    "role" : "Composer-fier",
+    "email" : "egifford@blueblazeassociates.com"
+    }
+  ],
+  "keywords" : [
+    "Attachment",
+    "Compression",
+    "gifsicle",
+    "gmagick",
+    "image",
+    "jpegmini",
+    "jpegtran",
+    "lossless",
+    "lossy",
+    "Optimization",
+    "optimize",
+    "optipng",
+    "photo",
+    "picture",
+    "pngout",
+    "pngquant",
+    "seo",
+    "tinyjpg",
+    "tinypng",
+    "webp",
+    "wp-cli"
+  ],
+  "replace": {
+    "wpackagist-plugin/ewww-image-optimizer" : "2.5.4"
+  }
+}
