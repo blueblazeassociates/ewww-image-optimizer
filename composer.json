@@ -40,6 +40,7 @@
   ],
   "replace": {
     "wpackagist-plugin/ewww-image-optimizer" : "2.5.4",
-    "wpackagist-plugin/ewww-image-optimizer" : "2.5.5"
+    "wpackagist-plugin/ewww-image-optimizer" : "2.5.5",
+    "wpackagist-plugin/ewww-image-optimizer" : "2.5.6"
   }
 }
